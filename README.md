@@ -9,9 +9,15 @@ lot of resources, I’ll be working as a data analyst, data scientist, researche
 the same time to help them with this project.
 
 ClimateWins has a few areas it wants to cover:
+
 ● Finding new patterns in weather changes over the last 60 years.
+
 ● Identifying weather patterns outside the regional norm in Europe.
+
 ● Determining whether unusual weather patterns are increasing.
+
 ● Generating possibilities for future weather conditions over the next 25 to 50 years based
 on current trends.
+
 ● Determining the safest places for people to live in Europe within the next 25 to 50 years.
+
